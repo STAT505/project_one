@@ -1,0 +1,56 @@
+---
+title: "Project 1 Info: Data Visualization"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.height=4, fig.width=10)
+options(show.signif.stars = FALSE)
+```
+
+
+## Project Overview
+
+The first course project will use a dataset of your choice to explore data visualization. For the report, you should identify a research question of interest to explore with data visualization. I'd expect at least 3 or 4 different graphics in this report.
+
+The report should contain sections such as introduction, data overview + data visualization, and discussion. The following is a rubric that will be used to assess the report. 
+All items are graded with the following scheme, where some have multipliers:
+
+1. __No Credit__: Criterion was not addressed or was written in a way that was not understandable.
+
+2. __Beginning__:  Ideas are not clear and supporting ideas are not presented.
+
+3. __Developing__: Ideas are identified but not well supported and developed or are minimally supported and developed.
+
+4. __Advanced__: Ideas are clearly identified and are adequately supported and developed.
+
+| __Report generalities__ | __Points__  |
+|:------------------------|---:|
+|Spelling, grammar, writing clarity |   12 |
+|Paragraphs, section labels |   4 |
+|Appendix with complete code |   4 |
+|Figures (reporting, labels, captions) included in text|   4 |
+|Acknowledgements for other resources / Citations for papers and packages used |   4 |
+
+
+| __Introduction__ | __Points__  |
+|:------------------------|---:|
+|Project motivation |   4 |
+|Sample size(s) |   4 |
+|Research question |   4 |
+
+| __Data Overview + Visualization__ | __Points__  |
+|:------------------------|---:|
+|Data source and study design |   4 |
+|Variables with units and descriptive statistics |   4 |
+|Figure Titles and Labels |   4 |
+|Figure Captions |   4|
+|Figure Clarity |   8|
+|Figure Quality |   8|
+
+
+| __Discussion__ | __Points__  |
+|:------------------------|---:|
+|Reframe research question |  4 |
+|Summarize findings from data visualization |4 |
